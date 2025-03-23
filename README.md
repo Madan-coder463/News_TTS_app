@@ -1,7 +1,3 @@
-Here's a detailed **README** for your project, including all the required sections such as **Project Setup**, **Model Details**, **API Development**, and more.
-
----
-
 # News Sentiment Analysis and TTS Application
 
 This application performs **sentiment analysis** and generates **text-to-speech (TTS)** audio in **Hindi** for news articles about a given company. It consists of a **Streamlit frontend** for interacting with users and a **Flask backend** to handle sentiment analysis and TTS generation.
